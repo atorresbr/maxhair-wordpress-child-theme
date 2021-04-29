@@ -1,2 +1,2 @@
-# max-hair-wordpress-child-theme
+# Max Hair Wordpress Child Theme
 Max Hair Wordpress Child Theme 
